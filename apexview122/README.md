@@ -1,1 +1,1 @@
-This is an app to manage live trading forex accounts
+This is an app to manage live trading forex account
